@@ -1,0 +1,24 @@
+{
+  "name": "loopa — Style Goes Around",
+  "short_name": "loopa",
+  "description": "Playful everyday C2C fashion marketplace with chat-first commerce and visual outfit reviews.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F7F3EC",
+  "theme_color": "#D9F36A",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=192&h=192&q=80",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=512&h=512&q=80",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
